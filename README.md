@@ -21,3 +21,7 @@ Test your luck against the computer in this classic game!
 3. Run the script using:
 # rock-paper-scissors
 Rock, Paper and Scissors game in Python
+---
+
+© 2025 NayabNoor | Mechatronics Engineering
+
