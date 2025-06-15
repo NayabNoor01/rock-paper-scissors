@@ -19,10 +19,5 @@ Test your luck against the computer in this classic game!
 1. Clone the repository or download the `.py` file
 2. Make sure Python is installed on your system
 3. Run the script using:
-# rock-paper-scissors
-Made with using Python.
 
----
-
-© 2025 NayabNoor | Mechatronics Engineering
-
+python rock_paper_scissors.py
