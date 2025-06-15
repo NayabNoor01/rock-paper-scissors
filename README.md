@@ -1,4 +1,4 @@
-# 🪨 Rock-Paper-Scissors Game
+# Rock-Paper-Scissors Game
 
 A simple **Rock, Paper, Scissors** game written in Python.  
 Test your luck against the computer in this classic game!
